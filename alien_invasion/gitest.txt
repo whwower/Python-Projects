@@ -1,4 +1,0 @@
-#This line is from Github editor:wang
-1.0
-2.0+wh branch test
-3.0
